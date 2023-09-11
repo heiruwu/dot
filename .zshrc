@@ -76,7 +76,6 @@ plugins=(
   git
   poetry
   zsh-autosuggestions
-  zsh-autocomplete
   fast-syntax-highlighting
 )
 
