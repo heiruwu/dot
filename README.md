@@ -1,1 +1,4 @@
 # dot
+
+## extra tools
+eza
