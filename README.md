@@ -8,4 +8,9 @@ OrbStack
 Slack
 Tailscale
 Nextcloud
-
+MonitorControl
+Arc
+stats for mac
+marktext
+helix
+lightshot
